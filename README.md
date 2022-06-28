@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Ethical Hacking**
 
-- 💬 Ask me about **python, flutter,**
+- 💬 Ask me about **python, flutter, PHP, JavaScript**
 
 - 📫 How to reach me **asciencioalex@gmail.com**
 
