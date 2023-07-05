@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/codnetech" target="blank"><img src="https://img.shields.io/twitter/follow/codnetech?logo=twitter&style=for-the-badge" alt="codnetech" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Ethical Hacking**
+- 🌱 I’m currently pursuing **Microverse Fullstack program**
 
-- 💬 Ask me about **python, flutter, PHP, JavaScript**
+- 💬 Ask me about **python, JavaScript, System Administration and security**
 
 - 📫 How to reach me **asciencioalex@gmail.com**
 
