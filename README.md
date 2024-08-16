@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/codnetech" target="blank"><img src="https://img.shields.io/twitter/follow/codnetech?logo=twitter&style=for-the-badge" alt="codnetech" /></a> </p>
 
-- 🌱 I’m currently pursuing **Microverse Fullstack program**
+- 🌱 I’m currently working as a software dev at E-Beeso
 
-- 💬 Ask me about **python, JavaScript, System Administration and security**
+- 💬 Ask me about **laravel and flutter or Dart**
 
 - 📫 How to reach me **asciencioalex@gmail.com**
 
