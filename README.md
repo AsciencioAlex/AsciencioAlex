@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codnetech" target="blank"><img src="https://img.shields.io/twitter/follow/codnetech?logo=twitter&style=for-the-badge" alt="codnetech" /></a> </p>
 
-- 🌱 I’m currently working as a software dev at E-Beeso
+- 🌱 I’m a Computer Scientist & Businessman
 
 - 💬 Ask me about **laravel and flutter or Dart**
 
